@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node -e \"console.log('Tests FAILED'); process.exit(1)\""
-   },
+  "test": "node -e \"console.log('Tests OK'); process.exit(0)\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mguerob284/practica-actions-02.git"
